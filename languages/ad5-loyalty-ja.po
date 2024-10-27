@@ -1,0 +1,158 @@
+msgid "Easiest way to bulid up a membership site. Display Sign up and Sign in form with shortcode and display different contents for guests and members."
+msgstr "会員制サイトを簡単に作成できるプラグインです。ショートコードで簡単に会員登録フォームとログインフォームを設置できます。全ての投稿や固定ページに、会員用コンテンツと非会員用コンテンツを設定することができます。"
+
+msgid "Easiest way to bulid up a membership site."
+msgstr "WordPressで簡単に会員制サイトを作ることができるプラグインです。"
+
+msgid "You can place Sign up and Sign in buttons anywhere on your site with shortcode."
+msgstr "ショートコードで、サイト内の好きな場所に会員登録ボタンやログインボタンを設置することができます。"
+
+msgid "Sign up and Sign in forms are displayed as a modal window, no special page required."
+msgstr "会員登録フォームやログインフォームは、モーダルウィンドウで表示されます。 特別なページの設置などは不要です。"
+
+msgid "This plugin enable you to display different contents for guests and members on any posts and pages you would like to."
+msgstr "全ての投稿や固定ページに対して、会員向けのコンテンツと、非会員向けのコンテンツを登録できるようになります。"
+
+
+
+msgid "General Setting"
+msgstr "会員限定設定"
+
+msgid "Documentation"
+msgstr "ドキュメント"
+
+msgid "Loyalty Contents"
+msgstr "会員別コンテンツ設定"
+
+msgid "For guests"
+msgstr "未ログイン時"
+
+msgid "For members"
+msgstr "ログイン時"
+
+msgid "Contents below will be outputted after main content."
+msgstr "下記に入力した内容は、それぞれ、本文に続けて表示されます。"
+
+msgid "To display totally different contents for guests and members, leave main content blank."
+msgstr "未ログイン時とログイン時で全て異なるコンテンツを表示させたい場合は、本文を空にして、下記のみに入力します。"
+
+msgid "Sign Up"
+msgstr "会員登録"
+
+msgid "Registered successfully"
+msgstr "会員登録が完了しました"
+
+msgid "Sign In"
+msgstr "ログイン"
+
+msgid "Signed in successfully"
+msgstr "ログインしました"
+
+msgid "Sign Out"
+msgstr "ログアウト"
+
+msgid "Signed out successfully"
+msgstr "ログアウトしました"
+
+msgid "New member not accesptable"
+msgstr "現在会員登録は停止されています。"
+
+msgid "Invalid transition"
+msgstr "不正な遷移です"
+
+msgid "Invalid email or password"
+msgstr "メールアドレスかパスワードが間違っています"
+
+msgid "Required"
+msgstr "必須項目です"
+
+msgid "Invalid email"
+msgstr "メールアドレスの形式が間違っています"
+
+msgid "Invalid Phone Number"
+msgstr "電話番号が間違っています"
+
+msgid "Use only alphanueric characters"
+msgstr "半角英数字で入力してください"
+
+msgid "Input %d or more characters"
+msgstr "%d文字以上で入力してください"
+
+msgid "Input %d or less characters"
+msgstr "%d文字以内で入力してください"
+
+msgid "email already registered"
+msgstr "このメールアドレスは既に使用されています"
+
+msgid "Email"
+msgstr "メールアドレス"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Your Name"
+msgstr "お名前"
+
+msgid "An error occured while processing your request"
+msgstr "システムエラーが発生しました"
+
+msgid "Request complete successfully"
+msgstr "完了しました"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Register Disabled"
+msgstr "会員登録無効"
+
+msgid "Check if not allow users to sign up."
+msgstr "管理者が手動で会員アカウントを発行したい場合など、サイト上で会員登録をさせない場合にはチェックを入れてください。"
+
+msgid "Default contents"
+msgstr "デフォルトコンテンツ"
+
+msgid "Contents below will be outputted after main content of all posts."
+msgstr "デフォルトコンテンツを設定すると、全投稿の末尾に表示されます。"
+
+msgid "These setting can be overwritten by Loyalty Contents setting of each post."
+msgstr "この設定は、各投稿の会員別コンテンツ設定で上書きすることができます。"
+
+msgid "Design Setting"
+msgstr "デザイン設定"
+
+msgid "Sign Up button"
+msgstr "会員登録ボタン"
+
+msgid "Sign In / Sign Out button"
+msgstr "ログイン・ログアウトボタン"
+
+msgid "Shortcodes"
+msgstr "ショートコード"
+
+msgid "display sign-up button."
+msgstr "会員登録ボタンを表示します。"
+
+msgid "To change button text, use [text] attribute."
+msgstr "ボタンの文言を変えるには、text 属性を指定します。"
+
+msgid "To change button style with your CSS, use [class] attribute."
+msgstr "CSSでボタンのデザインを変えたい場合は、class 属性を使うと、ボタンに任意のクラス名を付与することができます。"
+
+msgid "display sign-in button."
+msgstr "ログインボタンを表示します。"
+
+msgid "Sign In And Checkout!"
+msgstr "ログインして購入する"
+
+msgid "Attributes [text] and [class] are also available."
+msgstr "ログインボタンにも、text 属性と class 属性が使用できます。"
+
+msgid "Use in theme"
+msgstr "テーマでの使用方法"
+
+msgid "To display button in theme files, mark up a element with href and class attributes like below:"
+msgstr "テーマファイルでログインボタンや会員登録ボタンを表示するには、以下のような href 属性と class 属性のついた a タグを設置します。"
+
+msgid "To display content only for members or guests, function is_user_logged_in() is available."
+msgstr "ログイン時と非ログイン時で異なる内容を表示したい場合は、is_user_logged_in() 関数が使用できます。"
+
